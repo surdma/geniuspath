@@ -26,7 +26,7 @@ SECRET_KEY = 'h$45%qv)r$b6-x3@8p+qmvuek*tlq9vvn2n1=$=#z1f1__f1!b'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['geniuspath.heroku.com', '127.0.0.1']
+ALLOWED_HOSTS = ['127.0.0.1','geniuspath.herokuapp.com']
 
 
 # Application definition
