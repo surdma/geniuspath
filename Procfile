@@ -1,1 +1,1 @@
-web: gunicorn geniuspath.wsgin --log-file -
+web: gunicorn geniuspath.wsgi --log-file -
